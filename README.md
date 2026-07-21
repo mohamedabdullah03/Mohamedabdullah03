@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Abdullah S</h1>
-<h3 align="center">Embedded Systems Engineer | EEE Graduate | IoT & Firmware Developer</h3>
+<h3 align="center">Embedded Software/Firmware Engineer | EEE Graduate | IoT & Firmware Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-abdullah-s-2322bb268" target="_blank">
