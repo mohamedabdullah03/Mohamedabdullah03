@@ -1,46 +1,83 @@
-# Mohamed Abdullah S
+# Hi, I'm Mohamed Abdullah S
 
-**Embedded software | Linux | C++ | Edge AI deployment**
-Hosur, Tamil Nadu, India
+**Embedded Software | Linux | C++ | Edge AI Deployment**
 
-I am a project trainee at Maitreya Technologies. I write and test C++ for Linux-based camera and video-streaming applications, and I work on ONNX model deployment and cross-compilation for edge devices. I also have embedded experience with STM32 and Raspberry Pi Pico W.
+Hosur, Tamil Nadu, India · [LinkedIn](https://www.linkedin.com/in/mohamed-abdullah-s-2322bb268/) · [Email](mailto:mohamedabdullahsf@gmail.com)
 
-## Current work
+---
 
-- C++ components for a Linux video analytics application
-- Stream management with GStreamer, OpenCV, and CMake
-- ONNX model preparation and cross-compilation for edge platforms
-- Bring-your-own-model (BYOM) workflows and Novatek NPU deployment
+## About Me
 
-The video analytics application is employer work, so its code is not public.
+I am an Electrical and Electronics Engineering graduate (2025) and a **Project Trainee at Maitreya Technologies Pvt. Ltd.** My current work involves developing and testing C++ components for Linux-based camera and video-streaming applications, along with ONNX-based AI model deployment and cross-compilation workflows for edge platforms.
 
-## Skills
+My interests include embedded software, Linux application integration, multimedia systems, microcontroller firmware, and edge AI deployment.
 
-| Area | Tools |
+## Current Work
+
+### HonDefender — Video Analytics & Edge AI Integration
+
+**C++ · Linux · GStreamer · OpenCV · CMake · ONNX · Novatek NPU**
+
+- Contribute to Video Analytics application development and integration in a Linux-based camera and streaming environment.
+- Work with stream adapters and producer, consumer, and moderator components for stream management.
+- Investigate application build, runtime, and integration issues using Linux tools and logs.
+- Work on ONNX model preparation and cross-compilation workflows for edge AI deployment.
+- Explore BYOM tutorials and Novatek NPU deployment workflows.
+
+*HonDefender is part of my company work; its source code is not publicly shared.*
+
+## Technical Skills
+
+| Category | Skills and Tools |
 |---|---|
-| Languages | C, C++, Python |
-| Multimedia | GStreamer, OpenCV, RTSP |
-| Linux and build | Linux, Git, CMake |
-| Edge AI | ONNX, cross-compilation, Novatek NPU workflows |
-| Embedded | STM32F4 (ARM Cortex-M4), Raspberry Pi Pico W, GPIO, ADC, DMA, interrupts |
-| Protocols | UART, SPI, I2C, CAN, LoRa |
-| Debugging | Logic analyzer, oscilloscope, Docklight, log analysis |
+| Programming | C, C++, Python |
+| Embedded Systems | STM32F4 (ARM Cortex-M4), Raspberry Pi Pico W, GPIO, ADC, DMA, Interrupts |
+| Communication Protocols | UART, SPI, I2C, CAN, LoRa |
+| Linux & Development Tools | Linux, Git, CMake, STM32CubeIDE, PuTTY |
+| Multimedia Technologies | GStreamer, OpenCV, RTSP, Stream Adapters |
+| AI & Edge Deployment | ONNX, AI Model Deployment, Cross-Compilation, BYOM Workflows, Novatek NPU Workflows |
+| Hardware Debugging & Testing | Docklight, Logic Analyzer, Oscilloscope, Log Analysis, Integration Testing |
 
 ## Projects
 
-- [Arc Ignition-Based Gas Mitigation System](<repository link>): Raspberry Pi Pico W, MicroPython, MQ-series sensor, LoRa RA-02, Blynk IoT. A prototype that monitors gas levels and sends readings to a mobile app.
-- [ESP32 and STM32 wireless IR communication](<repository link>): firmware for both boards. Add the languages and protocols once the repository is confirmed.
-- [Gateway Configuration Tool](<repository link>): include only if the repository is in this account. List only the protocols the code implements.
+### Arc Ignition-Based Gas Mitigation System for Cooling Towers
+
+**Raspberry Pi Pico W · MicroPython · MQ-Series Sensor · LoRa RA-02 · Blynk IoT**
+
+- Developed a prototype gas-monitoring system using Raspberry Pi Pico W and an MQ-series sensor.
+- Implemented MicroPython firmware for sensor monitoring and system response.
+- Integrated LoRa wireless communication and Blynk IoT for remote mobile monitoring.
+- Integrated a Cockcroft-Walton voltage multiplier circuit for the arc-ignition mechanism.
+
+### Gateway Configuration Tool — In Progress
+
+**MQTT · Modbus · OPC UA · CAN · RS-232/RS-485**
+
+Working on a gateway configuration tool intended to support industrial communication protocols, including MQTT, Modbus, OPC UA, CAN, and RS-232/RS-485.
+
+### Wireless IR Communication — In Progress
+
+**ESP32 · STM32F446RE**
+
+Developing wireless infrared communication between an ESP32 and an STM32F446RE microcontroller.
 
 ## Experience
 
-- **Project Trainee**, Maitreya Technologies Pvt. Ltd. (Feb 2026 to present)
-- **Embedded Systems Intern**, NSIC Ltd., Chennai (Jun to Jul 2024)
+**Project Trainee** — Maitreya Technologies Pvt. Ltd., Hosur, Tamil Nadu  
+*February 2026 – Present*
+
+**Embedded Systems Intern** — NSIC Ltd., Chennai, Tamil Nadu  
+*June 2024 – July 2024*
 
 ## Education
 
-B.E., Electrical and Electronics Engineering, University College of Engineering, Kanchipuram (2021 to 2025)
+**B.E. — Electrical & Electronics Engineering**  
+University College of Engineering, Kanchipuram · 2021–2025
 
-## Contact
+## Certification
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-abdullah-s-2322bb268) | <your chosen email>
+**AI Programmer** — Certification
+
+---
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/mohamed-abdullah-s-2322bb268/) or reach me at [mohamedabdullahsf@gmail.com](mailto:mohamedabdullahsf@gmail.com).
